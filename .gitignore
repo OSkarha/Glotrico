@@ -1,4 +1,13 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
 *.psd
-node_modules
-
-package-lock.json
+*.sublime*
+node_modules/
+npm-debug.*
+source/css/*.css
+Thumbs.db
+.history
+.dist
